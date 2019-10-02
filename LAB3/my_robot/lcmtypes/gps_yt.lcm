@@ -1,0 +1,11 @@
+package exlcm;
+
+struct gps_t
+{
+        double timestamp;
+    	double latitude;
+        double longitude;
+        double altitude;
+        double utmx;
+        double utmy;
+}

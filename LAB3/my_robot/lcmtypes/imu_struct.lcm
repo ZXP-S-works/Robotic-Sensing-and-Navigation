@@ -1,0 +1,17 @@
+package exlcm;
+
+struct imu
+{
+        double yaw;
+        double pitch;
+        double roll;
+        double magnetic_x;
+        double magnetic_y;
+        double magnetic_z;
+        double acceleration_x;
+        double acceleration_y;
+        double acceleration_z;
+        double angular_rate_x;
+        double angular_rate_y;
+        double angular_rate_z;
+}

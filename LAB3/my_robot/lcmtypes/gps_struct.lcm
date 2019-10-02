@@ -1,0 +1,11 @@
+package exlcm;
+
+struct gps
+{
+        double time;
+    	double lat;
+        double lon;
+        double alt;
+        double utm_x;
+        double utm_y;
+}
